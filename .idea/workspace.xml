@@ -1,0 +1,1219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61421ad7-0acc-42f5-a26e-2b8942177c87" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="$PROJECT_DIR$/.classpath" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.project" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Compression/bin/HEncoder$Node$Nodecomparator.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Compression/bin/HEncoder$Node.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Compression/bin/HEncoder.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Compression/bin/compressclient.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Compression/bin/genericheap.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Compression/src/HEncoder.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Compression/src/compressclient.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Compression/src/genericheap.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Conversions/AnyBaseToAnyBase.java" afterPath="$PROJECT_DIR$/Conversions/AnyBaseToAnyBase.java" />
+      <change beforePath="$PROJECT_DIR$/Conversions/AnyBaseToDecimal.java" afterPath="$PROJECT_DIR$/Conversions/AnyBaseToDecimal.java" />
+      <change beforePath="$PROJECT_DIR$/Conversions/AnytoAny.java" afterPath="$PROJECT_DIR$/Conversions/AnytoAny.java" />
+      <change beforePath="$PROJECT_DIR$/Conversions/BinaryToDecimal.java" afterPath="$PROJECT_DIR$/Conversions/BinaryToDecimal.java" />
+      <change beforePath="$PROJECT_DIR$/Conversions/BinaryToHexadecimal.java" afterPath="$PROJECT_DIR$/Conversions/BinaryToHexadecimal.java" />
+      <change beforePath="$PROJECT_DIR$/Conversions/BinaryToOctal.java" afterPath="$PROJECT_DIR$/Conversions/BinaryToOctal.java" />
+      <change beforePath="$PROJECT_DIR$/Conversions/DecimalToAnyBase.java" afterPath="$PROJECT_DIR$/Conversions/DecimalToAnyBase.java" />
+      <change beforePath="$PROJECT_DIR$/Conversions/DecimalToBinary.java" afterPath="$PROJECT_DIR$/Conversions/DecimalToBinary.java" />
+      <change beforePath="$PROJECT_DIR$/Conversions/DecimalToHexaDecimal.java" afterPath="$PROJECT_DIR$/Conversions/DecimalToHexaDecimal.java" />
+      <change beforePath="$PROJECT_DIR$/Conversions/DecimalToOctal.java" afterPath="$PROJECT_DIR$/Conversions/DecimalToOctal.java" />
+      <change beforePath="$PROJECT_DIR$/Conversions/HexToOct.java" afterPath="$PROJECT_DIR$/Conversions/HexToOct.java" />
+      <change beforePath="$PROJECT_DIR$/Conversions/HexaDecimalToBinary.java" afterPath="$PROJECT_DIR$/Conversions/HexaDecimalToBinary.java" />
+      <change beforePath="$PROJECT_DIR$/Conversions/OctalToBinary.java" afterPath="$PROJECT_DIR$/Conversions/OctalToBinary.java" />
+      <change beforePath="$PROJECT_DIR$/Conversions/OctalToDecimal.java" afterPath="$PROJECT_DIR$/Conversions/OctalToDecimal.java" />
+      <change beforePath="$PROJECT_DIR$/Conversions/OctalToHexadecimal.java" afterPath="$PROJECT_DIR$/Conversions/OctalToHexadecimal.java" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Bags/Bag.java" afterPath="$PROJECT_DIR$/DataStructures/Bags/Bag.java" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Buffers/CircularBuffer.java" afterPath="$PROJECT_DIR$/DataStructures/Buffers/CircularBuffer.java" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/CSVFile/src/CSVFile.java" afterPath="$PROJECT_DIR$/DataStructures/CSVFile/src/CSVFile.java" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/CSVFile/src/TestCSVFile.java" afterPath="$PROJECT_DIR$/DataStructures/CSVFile/src/TestCSVFile.java" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Graphs/BFS.java" afterPath="$PROJECT_DIR$/DataStructures/Graphs/BFS.java" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Graphs/BellmanFord.java" afterPath="$PROJECT_DIR$/DataStructures/Graphs/BellmanFord.java" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Graphs/ConnectedComponent.java" afterPath="$PROJECT_DIR$/DataStructures/Graphs/ConnectedComponent.java" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Graphs/DFS.java" afterPath="$PROJECT_DIR$/DataStructures/Graphs/DFS.java" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Graphs/FloydWarshall.java" afterPath="$PROJECT_DIR$/DataStructures/Graphs/FloydWarshall.java" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Graphs/Graphs.java" afterPath="$PROJECT_DIR$/DataStructures/Graphs/Graphs.java" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Graphs/KruskalsAlgorithm.java" afterPath="$PROJECT_DIR$/DataStructures/Graphs/KruskalsAlgorithm.java" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Graphs/MatrixGraphs.java" afterPath="$PROJECT_DIR$/DataStructures/Graphs/MatrixGraphs.java" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Graphs/PrimMST.java" afterPath="$PROJECT_DIR$/DataStructures/Graphs/PrimMST.java" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Trees/AVLTree.java" afterPath="$PROJECT_DIR$/DataStructures/Trees/AVLTree.java" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Trees/BinaryTree.java" afterPath="$PROJECT_DIR$/DataStructures/Trees/BinaryTree.java" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Trees/FindHeightOfTree.java" afterPath="$PROJECT_DIR$/DataStructures/Trees/FindHeightOfTree.java" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Trees/GenericTree.Java" afterPath="$PROJECT_DIR$/DataStructures/Trees/GenericTree.Java" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Trees/LevelOrderTraversal.java" afterPath="$PROJECT_DIR$/DataStructures/Trees/LevelOrderTraversal.java" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Trees/LevelOrderTraversalQueue.java" afterPath="$PROJECT_DIR$/DataStructures/Trees/LevelOrderTraversalQueue.java" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Trees/PrintTopViewofTree.java" afterPath="$PROJECT_DIR$/DataStructures/Trees/PrintTopViewofTree.java" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Trees/RedBlackBST.java" afterPath="$PROJECT_DIR$/DataStructures/Trees/RedBlackBST.java" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Trees/TreeTraversal.java" afterPath="$PROJECT_DIR$/DataStructures/Trees/TreeTraversal.java" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Trees/TrieImp.java" afterPath="$PROJECT_DIR$/DataStructures/Trees/TrieImp.java" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Trees/ValidBSTOrNot.java" afterPath="$PROJECT_DIR$/DataStructures/Trees/ValidBSTOrNot.java" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/CoinChange.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/Edit_Distance.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/EggDropping.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/Fibonacci.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/KadaneAlgorithm.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/Knapsack.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/LevenshteinDistance.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/LongestCommonSubsequence.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/LongestIncreasingSubsequence.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/RodCutting.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/MinimizingLateness/MinimizingLateness.java" afterPath="$PROJECT_DIR$/MinimizingLateness/MinimizingLateness.java" />
+      <change beforePath="$PROJECT_DIR$/Misc/PalindromicPrime.java" afterPath="$PROJECT_DIR$/Misc/PalindromicPrime.java" />
+      <change beforePath="$PROJECT_DIR$/Misc/heap_sort.java" afterPath="$PROJECT_DIR$/Misc/heap_sort.java" />
+      <change beforePath="$PROJECT_DIR$/Others/Abecedarian.java" afterPath="$PROJECT_DIR$/Others/Abecedarian.java" />
+      <change beforePath="$PROJECT_DIR$/Others/Armstrong.java" afterPath="$PROJECT_DIR$/Others/Armstrong.java" />
+      <change beforePath="$PROJECT_DIR$/Others/BrianKernighanAlgorithm.java" afterPath="$PROJECT_DIR$/Others/BrianKernighanAlgorithm.java" />
+      <change beforePath="$PROJECT_DIR$/Others/CountChar.java" afterPath="$PROJECT_DIR$/Others/CountChar.java" />
+      <change beforePath="$PROJECT_DIR$/Others/Dijkshtra.java" afterPath="$PROJECT_DIR$/Others/Dijkshtra.java" />
+      <change beforePath="$PROJECT_DIR$/Others/Factorial.java" afterPath="$PROJECT_DIR$/Others/Factorial.java" />
+      <change beforePath="$PROJECT_DIR$/Others/FibToN.java" afterPath="$PROJECT_DIR$/Others/FibToN.java" />
+      <change beforePath="$PROJECT_DIR$/Others/FloydTriangle.java" afterPath="$PROJECT_DIR$/Others/FloydTriangle.java" />
+      <change beforePath="$PROJECT_DIR$/Others/GCD.java" afterPath="$PROJECT_DIR$/Others/GCD.java" />
+      <change beforePath="$PROJECT_DIR$/Others/GuassLengendre.java" afterPath="$PROJECT_DIR$/Others/GuassLengendre.java" />
+      <change beforePath="$PROJECT_DIR$/Others/Huffman.java" afterPath="$PROJECT_DIR$/Others/Huffman.java" />
+      <change beforePath="$PROJECT_DIR$/Others/InsertDeleteInArray.java" afterPath="$PROJECT_DIR$/Others/InsertDeleteInArray.java" />
+      <change beforePath="$PROJECT_DIR$/Others/KMP.java" afterPath="$PROJECT_DIR$/Others/KMP.java" />
+      <change beforePath="$PROJECT_DIR$/Others/LinearCongruentialGenerator.java" afterPath="$PROJECT_DIR$/Others/LinearCongruentialGenerator.java" />
+      <change beforePath="$PROJECT_DIR$/Others/LowestBasePalindrome.java" afterPath="$PROJECT_DIR$/Others/LowestBasePalindrome.java" />
+      <change beforePath="$PROJECT_DIR$/Others/Node.java" afterPath="$PROJECT_DIR$/Others/Node.java" />
+      <change beforePath="$PROJECT_DIR$/Others/Palindrome.java" afterPath="$PROJECT_DIR$/Others/Palindrome.java" />
+      <change beforePath="$PROJECT_DIR$/Others/PasswordGen.java" afterPath="$PROJECT_DIR$/Others/PasswordGen.java" />
+      <change beforePath="$PROJECT_DIR$/Others/PerlinNoise.java" afterPath="$PROJECT_DIR$/Others/PerlinNoise.java" />
+      <change beforePath="$PROJECT_DIR$/Others/PowerOfTwoOrNot.java" afterPath="$PROJECT_DIR$/Others/PowerOfTwoOrNot.java" />
+      <change beforePath="$PROJECT_DIR$/Others/QueueUsingTwoStacks.java" afterPath="$PROJECT_DIR$/Others/QueueUsingTwoStacks.java" />
+      <change beforePath="$PROJECT_DIR$/Others/ReturnSubsequence.java" afterPath="$PROJECT_DIR$/Others/ReturnSubsequence.java" />
+      <change beforePath="$PROJECT_DIR$/Others/ReverseStackUsingRecursion.java" afterPath="$PROJECT_DIR$/Others/ReverseStackUsingRecursion.java" />
+      <change beforePath="$PROJECT_DIR$/Others/ReverseString.java" afterPath="$PROJECT_DIR$/Others/ReverseString.java" />
+      <change beforePath="$PROJECT_DIR$/Others/RootPrecision.java" afterPath="$PROJECT_DIR$/Others/RootPrecision.java" />
+      <change beforePath="$PROJECT_DIR$/Others/SieveOfEratosthenes.java" afterPath="$PROJECT_DIR$/Others/SieveOfEratosthenes.java" />
+      <change beforePath="$PROJECT_DIR$/Others/SkylineProblem.java" afterPath="$PROJECT_DIR$/Others/SkylineProblem.java" />
+      <change beforePath="$PROJECT_DIR$/Others/StackPostfixNotation.java" afterPath="$PROJECT_DIR$/Others/StackPostfixNotation.java" />
+      <change beforePath="$PROJECT_DIR$/Others/TopKWords.java" afterPath="$PROJECT_DIR$/Others/TopKWords.java" />
+      <change beforePath="$PROJECT_DIR$/Others/TowerOfHanoiUsingRecursion.java" afterPath="$PROJECT_DIR$/Others/TowerOfHanoiUsingRecursion.java" />
+      <change beforePath="$PROJECT_DIR$/Others/countwords.java" afterPath="$PROJECT_DIR$/Others/countwords.java" />
+      <change beforePath="$PROJECT_DIR$/Others/crc32.java" afterPath="$PROJECT_DIR$/Others/crc32.java" />
+      <change beforePath="$PROJECT_DIR$/Others/krishnamurthy.java" afterPath="$PROJECT_DIR$/Others/krishnamurthy.java" />
+      <change beforePath="$PROJECT_DIR$/Others/removeDuplicateFromString.java" afterPath="$PROJECT_DIR$/Others/removeDuplicateFromString.java" />
+      <change beforePath="$PROJECT_DIR$/Searches/src/search/BinarySearch.java" afterPath="$PROJECT_DIR$/Searches/src/search/BinarySearch.java" />
+      <change beforePath="$PROJECT_DIR$/Searches/src/search/InterpolationSearch.java" afterPath="$PROJECT_DIR$/Searches/src/search/InterpolationSearch.java" />
+      <change beforePath="$PROJECT_DIR$/Searches/src/search/IterativeBinarySearch.java" afterPath="$PROJECT_DIR$/Searches/src/search/IterativeBinarySearch.java" />
+      <change beforePath="$PROJECT_DIR$/Searches/src/search/IterativeTernarySearch.java" afterPath="$PROJECT_DIR$/Searches/src/search/IterativeTernarySearch.java" />
+      <change beforePath="$PROJECT_DIR$/Searches/src/search/LinearSearch.java" afterPath="$PROJECT_DIR$/Searches/src/search/LinearSearch.java" />
+      <change beforePath="$PROJECT_DIR$/Searches/src/search/SaddlebackSearch.java" afterPath="$PROJECT_DIR$/Searches/src/search/SaddlebackSearch.java" />
+      <change beforePath="$PROJECT_DIR$/Searches/src/search/SearchAlgorithm.java" afterPath="$PROJECT_DIR$/Searches/src/search/SearchAlgorithm.java" />
+      <change beforePath="$PROJECT_DIR$/Searches/src/search/TernarySearch.java" afterPath="$PROJECT_DIR$/Searches/src/search/TernarySearch.java" />
+      <change beforePath="$PROJECT_DIR$/SkylineProblem/SkylineProblem.java" afterPath="$PROJECT_DIR$/SkylineProblem/SkylineProblem.java" />
+      <change beforePath="$PROJECT_DIR$/Sorts/src/sort/BinaryTreeSort.java" afterPath="$PROJECT_DIR$/Sorts/src/sort/BinaryTreeSort.java" />
+      <change beforePath="$PROJECT_DIR$/Sorts/src/sort/BogoSort.java" afterPath="$PROJECT_DIR$/Sorts/src/sort/BogoSort.java" />
+      <change beforePath="$PROJECT_DIR$/Sorts/src/sort/BubbleSort.java" afterPath="$PROJECT_DIR$/Sorts/src/sort/BubbleSort.java" />
+      <change beforePath="$PROJECT_DIR$/Sorts/src/sort/CocktailShakerSort.java" afterPath="$PROJECT_DIR$/Sorts/src/sort/CocktailShakerSort.java" />
+      <change beforePath="$PROJECT_DIR$/Sorts/src/sort/CombSort.java" afterPath="$PROJECT_DIR$/Sorts/src/sort/CombSort.java" />
+      <change beforePath="$PROJECT_DIR$/Sorts/src/sort/CountingSort.java" afterPath="$PROJECT_DIR$/Sorts/src/sort/CountingSort.java" />
+      <change beforePath="$PROJECT_DIR$/Sorts/src/sort/CycleSort.java" afterPath="$PROJECT_DIR$/Sorts/src/sort/CycleSort.java" />
+      <change beforePath="$PROJECT_DIR$/Sorts/src/sort/GnomeSort.java" afterPath="$PROJECT_DIR$/Sorts/src/sort/GnomeSort.java" />
+      <change beforePath="$PROJECT_DIR$/Sorts/src/sort/HeapSort.java" afterPath="$PROJECT_DIR$/Sorts/src/sort/HeapSort.java" />
+      <change beforePath="$PROJECT_DIR$/Sorts/src/sort/InsertionSort.java" afterPath="$PROJECT_DIR$/Sorts/src/sort/InsertionSort.java" />
+      <change beforePath="$PROJECT_DIR$/Sorts/src/sort/MergeSort.java" afterPath="$PROJECT_DIR$/Sorts/src/sort/MergeSort.java" />
+      <change beforePath="$PROJECT_DIR$/Sorts/src/sort/PancakeSort.java" afterPath="$PROJECT_DIR$/Sorts/src/sort/PancakeSort.java" />
+      <change beforePath="$PROJECT_DIR$/Sorts/src/sort/QuickSort.java" afterPath="$PROJECT_DIR$/Sorts/src/sort/QuickSort.java" />
+      <change beforePath="$PROJECT_DIR$/Sorts/src/sort/RadixSort.java" afterPath="$PROJECT_DIR$/Sorts/src/sort/RadixSort.java" />
+      <change beforePath="$PROJECT_DIR$/Sorts/src/sort/SelectionSort.java" afterPath="$PROJECT_DIR$/Sorts/src/sort/SelectionSort.java" />
+      <change beforePath="$PROJECT_DIR$/Sorts/src/sort/ShellSort.java" afterPath="$PROJECT_DIR$/Sorts/src/sort/ShellSort.java" />
+      <change beforePath="$PROJECT_DIR$/Sorts/src/sort/SortAlgorithm.java" afterPath="$PROJECT_DIR$/Sorts/src/sort/SortAlgorithm.java" />
+      <change beforePath="$PROJECT_DIR$/Sorts/src/sort/SortUtils.java" afterPath="$PROJECT_DIR$/Sorts/src/sort/SortUtils.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="TreeTraversal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataStructures/Trees/TreeTraversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2526">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KruskalsAlgorithm.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataStructures/Graphs/KruskalsAlgorithm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#495#496#0" expanded="true" />
+                <element signature="e#556#557#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OctalToBinary.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Conversions/OctalToBinary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="39" column="30" lean-forward="false" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Integer.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="577" column="36" lean-forward="false" selection-start-line="577" selection-start-column="36" selection-end-line="577" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Character.java" pinned="false" current-in-tab="true">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/Character.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="6562" column="29" lean-forward="false" selection-start-line="6562" selection-start-column="29" selection-end-line="6562" selection-end-column="29" />
+              <folding>
+                <element signature="e#233921#233922#0" expanded="true" />
+                <element signature="e#233965#233966#0" expanded="true" />
+                <element signature="e#236253#236254#0" expanded="true" />
+                <element signature="e#236327#236328#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CharacterData.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/CharacterData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="75" column="31" lean-forward="false" selection-start-line="75" selection-start-column="31" selection-end-line="75" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CharacterData00.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/CharacterData00.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="33" column="6" lean-forward="false" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrimMST.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataStructures/Graphs/PrimMST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedBlackBST.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataStructures/Trees/RedBlackBST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LevelOrderTraversalQueue.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataStructures/Trees/LevelOrderTraversalQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Source/spring-framework-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring-framework" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Dynamic Programming/CoinChange.java" />
+        <option value="$PROJECT_DIR$/DynamicProgramming/Edit_Distance.java" />
+        <option value="$PROJECT_DIR$/DynamicProgramming/EggDropping.java" />
+        <option value="$PROJECT_DIR$/DynamicProgram/EggDropping.java" />
+        <option value="$PROJECT_DIR$/DynamicProgram/Fibonacci.java" />
+        <option value="$PROJECT_DIR$/DynamicProgram/KadaneAlgorithm.java" />
+        <option value="$PROJECT_DIR$/DynamicProgram/Knapsack.java" />
+        <option value="$PROJECT_DIR$/DynamicProgram/LevenshteinDistance.java" />
+        <option value="$PROJECT_DIR$/DynamicProgram/LongestCommonSubsequence.java" />
+        <option value="$PROJECT_DIR$/DynamicProgram/LongestIncreasingSubsequence.java" />
+        <option value="$PROJECT_DIR$/DynamicProgram/RodCutting.java" />
+        <option value="$PROJECT_DIR$/DataStructures/Bags/Bag.java" />
+        <option value="$PROJECT_DIR$/DataStructures/Buffers/CircularBuffer.java" />
+        <option value="$PROJECT_DIR$/DataStructures/CSVFile/src/CSVFile.java" />
+        <option value="$PROJECT_DIR$/DataStructures/CSVFile/src/TestCSVFile.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Conversions/AnyBaseToAnyBase.java" />
+        <option value="$PROJECT_DIR$/Conversions/AnyBaseToDecimal.java" />
+        <option value="$PROJECT_DIR$/Conversions/AnytoAny.java" />
+        <option value="$PROJECT_DIR$/Conversions/BinaryToDecimal.java" />
+        <option value="$PROJECT_DIR$/Conversions/BinaryToHexadecimal.java" />
+        <option value="$PROJECT_DIR$/Conversions/BinaryToOctal.java" />
+        <option value="$PROJECT_DIR$/Conversions/DecimalToAnyBase.java" />
+        <option value="$PROJECT_DIR$/Conversions/DecimalToBinary.java" />
+        <option value="$PROJECT_DIR$/Conversions/DecimalToHexaDecimal.java" />
+        <option value="$PROJECT_DIR$/Conversions/DecimalToOctal.java" />
+        <option value="$PROJECT_DIR$/Conversions/HexaDecimalToBinary.java" />
+        <option value="$PROJECT_DIR$/Conversions/HexToOct.java" />
+        <option value="$PROJECT_DIR$/Conversions/OctalToDecimal.java" />
+        <option value="$PROJECT_DIR$/Conversions/OctalToHexadecimal.java" />
+        <option value="$PROJECT_DIR$/DataStructures/Graphs/BellmanFord.java" />
+        <option value="$PROJECT_DIR$/DataStructures/Graphs/BFS.java" />
+        <option value="$PROJECT_DIR$/DataStructures/Graphs/ConnectedComponent.java" />
+        <option value="$PROJECT_DIR$/DataStructures/Graphs/DFS.java" />
+        <option value="$PROJECT_DIR$/DataStructures/Graphs/FloydWarshall.java" />
+        <option value="$PROJECT_DIR$/DataStructures/Graphs/Graphs.java" />
+        <option value="$PROJECT_DIR$/DataStructures/Graphs/MatrixGraphs.java" />
+        <option value="$PROJECT_DIR$/DataStructures/Graphs/PrimMST.java" />
+        <option value="$PROJECT_DIR$/DataStructures/Trees/ValidBSTOrNot.java" />
+        <option value="$PROJECT_DIR$/DataStructures/Trees/TrieImp.java" />
+        <option value="$PROJECT_DIR$/DataStructures/Trees/TreeTraversal.java" />
+        <option value="$PROJECT_DIR$/DataStructures/Trees/RedBlackBST.java" />
+        <option value="$PROJECT_DIR$/DataStructures/Trees/PrintTopViewofTree.java" />
+        <option value="$PROJECT_DIR$/DataStructures/Trees/LevelOrderTraversalQueue.java" />
+        <option value="$PROJECT_DIR$/DataStructures/Trees/GenericTree.Java" />
+        <option value="$PROJECT_DIR$/DataStructures/Trees/LevelOrderTraversal.java" />
+        <option value="$PROJECT_DIR$/DataStructures/Trees/AVLTree.java" />
+        <option value="$PROJECT_DIR$/DataStructures/Trees/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/DataStructures/Trees/FindHeightOfTree.java" />
+        <option value="$PROJECT_DIR$/DataStructures/Graphs/KruskalsAlgorithm.java" />
+        <option value="$PROJECT_DIR$/Conversions/OctalToBinary.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="/usr/local/Cellar/maven/3.5.3/libexec" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/daihou-settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="949" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="ciphers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Conversions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="Bags" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="Buffers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="CSVFile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="CSVFile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="Graphs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="Graphs" type="462c0819:PsiDirectoryNode" />
+              <item name="ConnectedComponent.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="Graphs" type="462c0819:PsiDirectoryNode" />
+              <item name="Graphs.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="Graphs" type="462c0819:PsiDirectoryNode" />
+              <item name="KruskalsAlgorithm.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="Graphs" type="462c0819:PsiDirectoryNode" />
+              <item name="MatrixGraphs.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="Trees" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="Trees" type="462c0819:PsiDirectoryNode" />
+              <item name="LevelOrderTraversal.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="Trees" type="462c0819:PsiDirectoryNode" />
+              <item name="LevelOrderTraversalQueue.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="Trees" type="462c0819:PsiDirectoryNode" />
+              <item name="PrintTopViewofTree.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="Trees" type="462c0819:PsiDirectoryNode" />
+              <item name="TreeTraversal.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="Trees" type="462c0819:PsiDirectoryNode" />
+              <item name="ValidBSTOrNot.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="MinimizingLateness" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Others" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Others" type="462c0819:PsiDirectoryNode" />
+              <item name="GuassLengendre.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Others" type="462c0819:PsiDirectoryNode" />
+              <item name="QueueUsingTwoStacks.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Others" type="462c0819:PsiDirectoryNode" />
+              <item name="TowerOfHanoiUsingRecursion.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="SkylineProblem" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="create.test.in.the.same.root" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61421ad7-0acc-42f5-a26e-2b8942177c87" name="Default" comment="" />
+      <created>1536119412559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536119412559</updated>
+      <workItem from="1536119419422" duration="902000" />
+      <workItem from="1536127798737" duration="4362000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5264000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2536855" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DynamicProgram/RodCutting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/Bags/Bag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/Buffers/CircularBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.project">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/CSVFile/src/TestCSVFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Compression/bin/compressclient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conversions/AnyBaseToAnyBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conversions/AnyBaseToDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conversions/AnytoAny.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conversions/BinaryToDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conversions/BinaryToHexadecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conversions/BinaryToOctal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conversions/DecimalToAnyBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conversions/DecimalToBinary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conversions/DecimalToHexaDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conversions/DecimalToOctal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conversions/HexaDecimalToBinary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conversions/HexaDecimalToDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conversions/HexToOct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conversions/OctalToDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conversions/OctalToHexadecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/CSVFile/src/CSVFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/Graphs/BellmanFord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/Graphs/BFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/Graphs/ConnectedComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/Graphs/DFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/Graphs/FloydWarshall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/Graphs/Graphs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/Graphs/MatrixGraphs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/Trees/ValidBSTOrNot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="25" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/Trees/TrieImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/Trees/PrintTopViewofTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/Trees/GenericTree.Java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/Trees/LevelOrderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/Trees/AVLTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="182" column="59" lean-forward="false" selection-start-line="182" selection-start-column="59" selection-end-line="182" selection-end-column="59" />
+          <folding>
+            <element signature="e#4370#4371#0" expanded="false" />
+            <element signature="e#4404#4405#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/Trees/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="270" column="0" lean-forward="false" selection-start-line="270" selection-start-column="0" selection-end-line="270" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/Trees/FindHeightOfTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1272">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/Trees/LevelOrderTraversalQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/Trees/RedBlackBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/Trees/TreeTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2526">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/Graphs/PrimMST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/Graphs/KruskalsAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conversions/OctalToBinary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="39" column="30" lean-forward="false" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="577" column="36" lean-forward="false" selection-start-line="577" selection-start-column="36" selection-end-line="577" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/CharacterData00.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="33" column="6" lean-forward="false" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/CharacterData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="75" column="31" lean-forward="false" selection-start-line="75" selection-start-column="31" selection-end-line="75" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="6562" column="29" lean-forward="false" selection-start-line="6562" selection-start-column="29" selection-end-line="6562" selection-end-column="29" />
+          <folding>
+            <element signature="e#233921#233922#0" expanded="true" />
+            <element signature="e#233965#233966#0" expanded="true" />
+            <element signature="e#236253#236254#0" expanded="true" />
+            <element signature="e#236327#236328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Java</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

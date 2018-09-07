@@ -1,5 +1,5 @@
-public class heap_sort
-{
+package Misc;
+public class heap_sort {
     public void sort(int arr[])
     {
         int n = arr.length;

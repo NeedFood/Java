@@ -1,7 +1,5 @@
-import java.lang.StringBuilder;
-import java.util.*;
-import java.util.Scanner;
-import javax.swing.*;
+package Conversions;
+
 
 public class HexaDecimalToBinary {
  

@@ -1,7 +1,10 @@
+package DynamicProgram;
+
 import java.util.Scanner;
 
 /**
- * Program to implement Kadane’s Algorithm to 
+
+ * Program to implement Kadane’s Algorithm to
  * calculate maximum contiguous subarray sum of an array
  * Time Complexity: O(n)
  * 

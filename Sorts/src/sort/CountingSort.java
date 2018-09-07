@@ -1,4 +1,4 @@
-package sort;
+package Sorts.src.sort;
 
 import java.util.*;
 import java.util.stream.IntStream;
@@ -6,8 +6,7 @@ import java.util.stream.Stream;
 
 import static java.util.stream.Collectors.toList;
 import static java.util.stream.Collectors.toMap;
-import static sort.SortUtils.print;
-
+import static Sorts.src.sort.SortUtils.print;
 /**
  *
  * @author Youssef Ali (https://github.com/youssefAli11997)

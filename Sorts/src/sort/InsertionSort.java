@@ -1,7 +1,7 @@
-package sort;
+package Sorts.src.sort;
 
-import static sort.SortUtils.less;
-import static sort.SortUtils.print;
+import static Sorts.src.sort.SortUtils.less;
+import static Sorts.src.sort.SortUtils.print;
 
 /**
  *

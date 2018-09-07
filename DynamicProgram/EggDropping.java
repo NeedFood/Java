@@ -1,3 +1,5 @@
+package DynamicProgram;
+
 //Dynamic Programming solution for the Egg Dropping Puzzle
 public class EggDropping
 {

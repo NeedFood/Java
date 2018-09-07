@@ -1,7 +1,8 @@
-package sort;
+package Sorts.src.sort;
 
-import static sort.SortUtils.*;
-
+import static Sorts.src.sort.SortUtils.less;
+import static Sorts.src.sort.SortUtils.print;
+import static Sorts.src.sort.SortUtils.swap;
 /**
  * Implementation of gnome sort
  *
@@ -9,7 +10,7 @@ import static sort.SortUtils.*;
  * @since 2018-04-10
  *
  **/
-public class GnomeSort implements SortAlgorithm{
+public class GnomeSort implements SortAlgorithm {
 
     @Override
     public <T extends Comparable<T>> T[] sort(T[] arr) {

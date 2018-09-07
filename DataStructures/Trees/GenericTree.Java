@@ -1,3 +1,5 @@
+package DataStructures.Trees;
+
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Scanner;
@@ -223,4 +225,5 @@ public class GenericTree {
 			node.child.remove(arr.get(i) + 0);
 		}
 	}
+}
 

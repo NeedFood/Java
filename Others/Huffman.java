@@ -1,3 +1,4 @@
+package Others;
 
 import java.util.Comparator;
 import java.util.Iterator;
@@ -43,10 +44,10 @@ f		1 1 0 0
 
 */
 
-class Node{
-String letr="";    
-int freq=0,data=0;
-Node left=null,right=null;
+public class Node{
+    String letr="";
+    int freq=0,data=0;
+    Node left=null,right=null;
 }
 
 //A comparator class to sort list on the basis of their frequency

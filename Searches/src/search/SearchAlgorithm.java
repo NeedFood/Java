@@ -1,4 +1,4 @@
-package search;
+package Searches.src.search;
 
 /**
  *  The common interface of most searching algorithms

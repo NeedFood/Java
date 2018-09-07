@@ -1,3 +1,5 @@
+package DataStructures.Trees;
+
 public class AVLTree {
  
     private Node root;
@@ -176,9 +178,10 @@ public class AVLTree {
     }
  
     private void setBalance(Node... nodes) {
-        for (Node n : nodes)
-            reheight(n);
-            n.balance = height(n.right) - height(n.left);
+        for (Node node : nodes) {
+            reheight(node);
+            node.balance = height(node.right) - height(node.left);
+        }
     }
  
     public void printBalance() {

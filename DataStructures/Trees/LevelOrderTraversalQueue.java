@@ -1,17 +1,8 @@
+package DataStructures.Trees;
+
 import java.util.Queue;
 import java.util.LinkedList;
- 
-/* Class to represent Tree node */
-class Node {
-    int data;
-    Node left, right;
- 
-    public Node(int item) {
-        data = item;
-        left = null;
-        right = null;
-    }
-}
+
  
 /* Class to print Level Order Traversal */
 public class LevelOrderTraversalQueue {

@@ -1,3 +1,5 @@
+package Conversions;
+
 import java.util.Scanner;
 
 /**
@@ -30,20 +32,14 @@ public class OctalToBinary {
 	public static int convertOctalToBinary(int o) {
 		Scanner scan;
 		int num;
-	
-		void getVal() {
-		
-			System.out.println("Octal to Binary");
-			scan = new Scanner(System.in);
-			// Entering the needed number
-			System.out.println("\nEnter the number : ");
-			num = Integer.parseInt(scan.nextLine(), 8);
-		}
-		
-		void convert() {
-		
-			String binary = Integer.toBinaryString(num);		
-			System.out.println("Binary Value is : " + binary);
-		}
+
+		System.out.println("Octal to Binary");
+		scan = new Scanner(System.in);
+		// Entering the needed number
+		System.out.println("\nEnter the number : ");
+		num = Integer.parseInt(scan.nextLine(), 8);
+		String binary = Integer.toBinaryString(num);
+		System.out.println("Binary Value is : " + binary);
+		return 0;
 	}
 }

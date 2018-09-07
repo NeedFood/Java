@@ -1,6 +1,6 @@
-package sort;
+package Sorts.src.sort;
 
-import static sort.SortUtils.*;
+import static Sorts.src.sort.SortUtils.*;
 
 /**
  * Implementation of gnome sort

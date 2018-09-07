@@ -1,6 +1,7 @@
-import java.util.Scanner;
-public class PalindromePrime {
+package Misc;
 
+import java.util.Scanner;
+public class PalindromicPrime {
     public static void main(String[] args) { // Main funtion
         Scanner in = new Scanner(System.in);
         System.out.println("Enter the quantity of First Palindromic Primes you want");
@@ -38,4 +39,4 @@ public class PalindromePrime {
                 num++; // inrease iterator value by one
             }
     }
-};
+}

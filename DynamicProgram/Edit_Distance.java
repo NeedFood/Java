@@ -1,7 +1,9 @@
-    /**
-    Author : SUBHAM SANGHAI
-    A Dynamic Programming based solution for Edit Distance problem In Java
-    **/
+package DynamicProgram;
+
+/**
+Author : SUBHAM SANGHAI
+A Dynamic Programming based solution for Edit Distance problem In Java
+**/
 
     /**Description of Edit Distance with an Example:
 

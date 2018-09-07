@@ -1,3 +1,5 @@
+package Others;
+
 import java.lang.Math;
 /*
  * author: @AKS1996
@@ -6,7 +8,7 @@ import java.lang.Math;
  *
  */
 
-public class GuassLegendre {
+class GuassLegendre {
 
 	public static void main(String[] args) {
 		for(int i=1;i<=3;++i)

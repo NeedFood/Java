@@ -1,3 +1,5 @@
+package DataStructures.Graphs;
+
 public class MatrixGraphs {
 
 	public static void main(String args[]) {

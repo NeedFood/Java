@@ -1,6 +1,6 @@
-package sort;
+package Sorts.src.sort;
 
-import static sort.SortUtils.print;
+import static Sorts.src.sort.SortUtils.print;
 
 /**
  * This method implements the Generic Merge Sort

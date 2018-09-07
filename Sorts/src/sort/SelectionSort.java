@@ -1,6 +1,8 @@
-package sort;
+package Sorts.src.sort;
 
-import static sort.SortUtils.*;
+import static Sorts.src.sort.SortUtils.less;
+import static Sorts.src.sort.SortUtils.print;
+import static Sorts.src.sort.SortUtils.swap;
 
 /**
  *

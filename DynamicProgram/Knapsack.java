@@ -1,3 +1,5 @@
+package DynamicProgram;
+
 // A Dynamic Programming based solution for 0-1 Knapsack problem
 
 public class Knapsack

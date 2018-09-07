@@ -1,3 +1,5 @@
+package DynamicProgram;
+
 class LongestCommonSubsequence {
 
 	public static String getLCS(String str1, String str2) {

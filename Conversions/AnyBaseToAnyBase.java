@@ -1,9 +1,11 @@
+package Conversions;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
 /**
+
  * Class for converting from "any" base to "any" other base, when "any" means from 2-36.
  * Works by going from base 1 to decimal to base 2. Includes auxiliary method for 
  * determining whether a number is valid for a given base.

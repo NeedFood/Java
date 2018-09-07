@@ -1,4 +1,6 @@
-    import java.util.Scanner;
+package DataStructures.Graphs;
+
+import java.util.Scanner;
     public class FloydWarshall
     {
         private int DistanceMatrix[][];
